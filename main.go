@@ -34,4 +34,5 @@ func main() {
 
 	// run app
 	cli.Run("gohan", "Gohan")
+	abcdabcdabcd
 }
